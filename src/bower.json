@@ -1,0 +1,18 @@
+{
+  "name": "jeg-jeremy-gobet-cv",
+  "authors": [
+    "Jérémy Gobet <jgobet@octo.com>"
+  ],
+  "description": "",
+  "keywords": [
+    "JEG",
+    "CV"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "2.2.4",
+    "handlebars": "^4.0.5"
+  }
+}

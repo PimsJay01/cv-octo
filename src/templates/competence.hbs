@@ -1,0 +1,12 @@
+{{#each content}}
+  <div class="bloc bloc-competence">
+    {{#each this}}
+      <h2>{{title}}</h2>
+      <ul>
+        {{#each content}}
+          <li>{{this}}</li>
+        {{~/each}}
+      </ul>
+    {{~/each}}
+  </div>
+{{~/each}}

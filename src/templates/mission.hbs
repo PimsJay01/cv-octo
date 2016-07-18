@@ -1,0 +1,29 @@
+{{#each content}}
+  <div class="mission">
+    <div class="mission-logo-time">
+      <!-- Logo of mission customer -->
+      <img src="src/img/{{img}}" alt="{{alt}}">
+      <!-- Period of the mission -->
+      {{#each period}}
+        <p>{{this}}</p>
+      {{~/each}}
+    </div>
+    <div class="mission-desc">
+      {{#each content}}
+        <!-- Description of the mission : title in h2, details in ul>li and keywords at last -->
+        <h2>{{title}}</h2>
+        <ul>
+          {{#each content}}
+            <li>{{this}}</li>
+          {{~/each}}
+        </ul>
+        <p class="mission-keywords">
+          {{#each keywords}}
+            {{this}}
+          {{~/each}}
+        </p>
+      {{~/each}}
+    </div>
+  </div>
+  <div class="divider"></div>
+{{~/each}}

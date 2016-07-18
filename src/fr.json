@@ -1,0 +1,251 @@
+{
+  "cv": [
+    {
+      "type": "bloc",
+      "title": "Education",
+      "content": [
+        "Bachelor's degree, Information Technology, HES-SO Switzerland (2012)",
+        "Technician ET Diploma, Electronic, CFPT Switzerland (2008)",
+        "Federal Certificat, Electronic, CEPTA Switzerland (2006)"
+      ]
+    },
+    {
+      "type": "bloc",
+      "title": "Summary",
+      "content": [
+        "Jérémy est consultant chez OCTO Technology et dispose de huit ans d’expérience dans le développement Web et mobile.",
+        "Poussé par son désir créatif, il commence par étudier l'électronique pendant 6 ans avant de se réorienter dans le développement informatique. En 2012, il obtient un Bachelore en ingénierie des technologies de l'information à hepia (Membre des HES-SO).",
+        "A la fin de ses études, Jérémy se voit offrir une place à hepia en tant qu'assistant de recherche. Pendant cette période de 3 ans, il travail sur de nombreux projets de développement informatique pour des start-ups Suisse. Pendant cette même période, il suit la formation en entrpreunariat « Venture Challenge » à l'Université de Genève et se forme sur la création graphique, le design et la 3D.",
+        "Il part six mois à Londres et participe à la refonte de la start-up Enterprise Lab en tant que « lead developer and designer ». Toutes ces expériences lui ont permit d'acquierir rapidement de fortes compétences en développement Web et mobile.",
+        "Il rejoint OCTO en 2016 et y poursuit le développement en parallèle de son activité de conseil. Fort de ses compétences pluridisciplinaires, il maintient un regard critique sur ses activités et recherche en permanence de meilleures façons de faire, partageant son expérience au travers de son activité de consultant et de rédaction d'articles."
+      ]
+    },
+    {
+      "type": "competence",
+      "title": "Competences",
+      "content": [
+        [
+          {
+            "title": "Domaines techniques",
+            "content": [
+              "Languages : Java, Python, C, C++, JavaScript, PHP, VBA, Delphi, Ada",
+              "Frameworks : Spring, Django, Symfony, AngularJS, Codeigniter, Wordpress, GWT",
+              "Databases & ORMs : SQL, MySQL, SQLite, Hibernate, Doctrine, Gaz ORM",
+              "Technologies : Android, OpenGL, Java3D, ArcGIS, WPF",
+              "JS Technologies : jQuery, jQuery UI, jQuery Mobile, PIXI, X3DOM",
+              "Design : CSS, SASS, Bootstrap, TWIG, X3DOM, Java3D, WPF",
+              "Softwares : IntelliJ, Eclipse, Atom, XDK, Photoshop, Illustrator, After Effects, Blender, Maya",
+              "Industrialisation des développements : Maven, Gradle, Bower, Grunt",
+              "Systems : Mac OSX, UNIX/Linux, Windows"
+            ]
+          }
+        ],
+        [
+          {
+            "title": "Missions conducted",
+            "content": [
+              "Audit & Due Diligence",
+              "...",
+              "..."
+            ]
+          },
+          {
+            "title": "Awards & Honours",
+            "content": [
+              "1st price of the competition « Mobile territory » of SITG",
+              "3rd price of the poster compettion at the 2011 Conference of ESRI France"
+            ]
+          },
+          {
+            "title": "Languages",
+            "content": [
+              "French: mother tongue",
+              "English: professional skill"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "pagebreak": true,
+      "type": "mission",
+      "title": "missions",
+      "subtitle": "pour OCTO Technology depuis 2016",
+      "content": [
+        {
+          "img": "bnpp.jpg",
+          "alt": "BNPP",
+          "period": [
+            "Jul 2016 - Aug 2016"
+          ],
+          "content": [
+            {
+              "title": "...",
+              "content": [
+                "Audit 360° de l'architecture",
+                "Analyse du code"
+              ],
+              "keywords": [
+                "Audit", "Architecture", "Code review"
+              ]
+            }
+          ]
+        },
+        {
+          "img": "crea.png",
+          "alt": "CREA",
+          "period": [
+            "Jun 2016 - Aug 2016"
+          ],
+          "content": [
+            {
+              "title": "Audit development ... ",
+              "content": [
+                "Audit 360° de l'architecture",
+                "Analyse du code"
+              ],
+              "keywords": [
+                "Audit", "Architecture", "Code review"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mission",
+      "title": "lead developer & designer",
+      "subtitle": "Enterprise Lab",
+      "content": [
+        {
+          "img": "enterpriselab.png",
+          "alt": "Enterprise Lab",
+          "period": [
+            "Octobre 2016 - March 2016",
+            "London, United Kingdom"
+          ],
+          "content": [
+            {
+              "title": "Responsible of website development and all design collateral; website, graphics, artwork and magazine layout.",
+              "content": [
+                "Rebuild the Enterprise Lab website on WordPress",
+                "Create a new Logo & identity for the enterprise and create animation and artwork for videos",
+                "Build new artwork for entrepreneurship events",
+                "Develop new artwork for presentations",
+                "Development of promotional material artwork Enterprise Lab",
+                "Writing articles for Enterprise Lab Magazine"
+              ],
+              "keywords": [
+                "Wordpress", "Photoshop", "Illustrator", "After Effect"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mission",
+      "title": "Chief Technology Officer",
+      "subtitle": "Enjoy",
+      "content": [
+        {
+          "img": "enjoy.png",
+          "alt": "Enjoy",
+          "period": [
+            "Aug 2015 - Feb 2016",
+            "Geneva, Switzerland"
+          ],
+          "content": [
+            {
+              "title": "Summary",
+              "content": [
+                ""
+              ],
+              "keywords": [
+                ""
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mission",
+      "title": "jQuery & Symfony Web Developer",
+      "subtitle": "Flowkit",
+      "content": [
+        {
+          "img": "flowkit.png",
+          "alt": "Flowkit",
+          "period": [
+            "Jul 2013 - Sep 2015",
+            "Lausanne, Switzerland"
+          ],
+          "content": [
+            {
+              "title": "Summary",
+              "content": [
+                ""
+              ],
+              "keywords": [
+                ""
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mission",
+      "title": "Java Spring & AngularJS Web Developer",
+      "subtitle": "Ville de Genève",
+      "content": [
+        {
+          "img": "geneve.jpg",
+          "alt": "Ville de Genève",
+          "period": [
+            "Nov 2014 - Jul 2015",
+            "Geneva, Switzerland"
+          ],
+          "content": [
+            {
+              "title": "Summary",
+              "content": [
+                ""
+              ],
+              "keywords": [
+                ""
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mission",
+      "title": "Research assistant for IT sector",
+      "subtitle": "HES-SO",
+      "content": [
+        {
+          "img": "hesso.png",
+          "alt": "HES-SO",
+          "period": [
+            "Feb 2013 - Aug 2015",
+            "Geneva, Switzerland"
+          ],
+          "content": [
+            {
+              "title": "Summary",
+              "content": [
+                ""
+              ],
+              "keywords": [
+                ""
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

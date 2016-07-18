@@ -1,0 +1,267 @@
+{
+  "cv": [
+    {
+      "type": "bloc",
+      "title": "Education",
+      "content": [
+        "Bachelor's degree, Technology of Information Engineering, HES-SO Switzerland (2012)",
+        "Technician ET Diploma, Electronic, CFPT Switzerland (2008)",
+        "Federal Certificat, Electronic, CEPTA Switzerland (2006)"
+      ]
+    },
+    {
+      "type": "bloc",
+      "title": "Summary",
+      "content": [
+        "Jérémy is consultant at OCTO Technology and has eight years of experience on Web and mobile development.",
+        "Pushed by his creative desire, he starts studying electronics during six years before changing direction for the IT development. In 2012, he receives its Bachelor's degree of engineering of information technologies at hepia (Member of the HES-SO University of Applied Sciences and Arts Western Switzerland).",
+        "At the end of its formations, Jérémy provided with a residency position at hepia as research assistant. During this period of three years, he works on many projects of IT development for start-ups based in Switzerland. He also begins the “Venture Challenge” training in entrepreneurship at the University of Geneva and learns by himself on the graphic creation, the design and 3D.",
+        "He moves to London and participates to the redesigning of the start-up Enterprise Lab as « lead developer and designer ». All these experiences have allowed him to quickly acquierir strong skills in Web and mobile development.",
+        "He joins OCTO Technology in 2016 and pursues IT development in addition of its activity of consultant. Based on its multidisciplinary skills, he maintains a critical look on its activities and constantly seeking ways to improve the way things are done, sharing his experience through its activities of consulting and articles writing."
+      ]
+    },
+    {
+      "type": "competence",
+      "title": "Skills",
+      "content": [
+        [
+          {
+            "title": "Technicals",
+            "content": [
+              "Languages : Java, Python, Kotlin, C, C++, JavaScript, PHP, VBA, Delphi, Ada",
+              "Frameworks : Spring, Django, Symfony, AngularJS, Codeigniter, Wordpress, GWT",
+              "Databases & ORMs : SQL, MySQL, SQLite, Hibernate, Doctrine, Gaz ORM",
+              "Technologies : Android, Git, SVN, OpenGL, Java3D, ArcGIS, WPF",
+              "JS Technologies : jQuery, jQuery UI, jQuery Mobile, PIXI, X3DOM",
+              "Design : CSS, SASS, Bootstrap, TWIG, X3DOM, Java3D, WPF",
+              "Softwares : IntelliJ, Eclipse, Atom, XDK, Photoshop, Illustrator, After Effects, Blender, Maya",
+              "Automated development : Maven, Gradle, Bower, Grunt",
+              "Operationg systems : Mac OSX, UNIX/Linux, Windows"
+            ]
+          }
+        ],
+        [
+          {
+            "title": "Missions conducted",
+            "content": [
+              "Audit architecture & software",
+              "Intention check",
+              "Workshop",
+              "Code analysis"
+            ]
+          },
+          {
+            "title": "Awards & Honours",
+            "content": [
+              "(1st price of the competition « Mobile territory » of SITG)[http://ge.ch/sitg/evenements/journees-du-sitg/2011/concours-un-territoire-mobile] - Mobile software GeTri development using the open database of SITG.",
+              "(3rd price of the poster compettion at the 2011 Conference of ESRI France)[http://sig2011.esrifrance.fr/posters2011.aspx] - GeTri poster presentation at the 2011 ESRI France at Versailles."
+            ]
+          },
+          {
+            "title": "Languages",
+            "content": [
+              "French: mother tongue",
+              "English: professional skill"
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "pagebreak": true,
+      "type": "mission",
+      "title": "Missions",
+      "subtitle": "Pour OCTO Technology",
+      "content": [
+        {
+          "img": "bnpp.jpg",
+          "alt": "BNPP",
+          "period": [
+            "Jul 2016 - Aug 2016"
+          ],
+          "content": [
+            {
+              "title": "Android developer",
+              "content": [
+                "Android & Kotlin development",
+                "Graphic widgets creation",
+                "Continous integration",
+                "Tests with Mokito",
+                "Business logic"
+              ],
+              "keywords": [
+                "Android", "Kotlin", "Moskito", "e-banking"
+              ]
+            }
+          ]
+        },
+        {
+          "img": "crea.png",
+          "alt": "CREA",
+          "period": [
+            "Jun 2016 - Aug 2016"
+          ],
+          "content": [
+            {
+              "title": "Audit architecture & softwares",
+              "content": [
+                "Workshop on IT questions",
+                "360° Audit architecture",
+                "Intention check",
+                "Code analysis"
+              ],
+              "keywords": [
+                "Audit", "Architecture", "Interview", "Workshop", "Sonar"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mission",
+      "title": "lead developer & designer",
+      "subtitle": "Enterprise Lab",
+      "content": [
+        {
+          "img": "enterpriselab.png",
+          "alt": "Enterprise Lab",
+          "period": [
+            "Octobre 2016 - March 2016",
+            "London, United Kingdom"
+          ],
+          "content": [
+            {
+              "title": "Responsible of website development and all design collateral",
+              "content": [
+                "Rebuild the Enterprise Lab website on WordPress",
+                "Create a new Logo & identity for the enterprise and create animation and artwork for videos",
+                "Build new artwork for entrepreneurship events",
+                "Develop new artwork for presentations",
+                "Development of promotional material artwork Enterprise Lab",
+                "Writing articles for Enterprise Lab Magazine"
+              ],
+              "keywords": [
+                "Wordpress", "Photoshop", "Illustrator", "After Effect"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mission",
+      "title": "Chief Technology Officer",
+      "subtitle": "Enjoy",
+      "content": [
+        {
+          "img": "enjoy.png",
+          "alt": "Enjoy",
+          "period": [
+            "Aug 2015 - Feb 2016",
+            "Geneva, Switzerland"
+          ],
+          "content": [
+            {
+              "title": "Responsible of website development",
+              "content": [
+                "Project manager",
+                "Provide expertise on the architecture & development",
+                "Development of new features",
+                "Crawlers managment"
+              ],
+              "keywords": [
+                "Symfony", "Django", "Bootstrap", "Start-up", "Crawlers"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mission",
+      "title": "jQuery & Symfony Web Developer",
+      "subtitle": "Flowkit",
+      "content": [
+        {
+          "img": "flowkit.png",
+          "alt": "Flowkit",
+          "period": [
+            "Jul 2013 - Sep 2015",
+            "Lausanne, Switzerland"
+          ],
+          "content": [
+            {
+              "title": "Development of a Web interface & service for using the 3D simulator Palabos.",
+              "content": [
+                "Web interface development",
+                "Architecture implementation",
+                "Creating services with Dockers",
+                "Deployment & automatization"
+              ],
+              "keywords": [
+                "Symfony", "Python", "jQuery", "jQuery UI", "NodeJS", "WebSocket", "Grunt", "Bower", "Palabos"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mission",
+      "title": "Java Spring & Angular JS Web Developer",
+      "subtitle": "Ville de Genève",
+      "content": [
+        {
+          "img": "geneve.jpg",
+          "alt": "Ville de Genève",
+          "period": [
+            "Nov 2014 - Jul 2015",
+            "Geneva, Switzerland"
+          ],
+          "content": [
+            {
+              "title": "Web development of Botanista for scientific botanical management",
+              "content": [
+                "Development and delivery of Botalista Web application",
+                "Creating tests and documentation for software",
+                "Updating old software SIBG",
+                "Provide expertise on the architecture & development",
+                "Participation in scrum methodology"
+              ],
+              "keywords": [
+                "AngularJS", "Spring", "Java", "Maeven", "Hibernate", "Bootsrap", "Botanical"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "mission",
+      "title": "Research assistant for IT sector",
+      "subtitle": "HES-SO",
+      "content": [
+        {
+          "img": "hesso.png",
+          "alt": "HES-SO",
+          "period": [
+            "Feb 2013 - Aug 2015",
+            "Geneva, Switzerland"
+          ],
+          "content": [
+            {
+              "title": "Summary",
+              "content": [
+                ""
+              ],
+              "keywords": [
+                ""
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
