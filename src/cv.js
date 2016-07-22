@@ -15,22 +15,22 @@
   }, 'html');
 
   $.getJSON('src/cv.json', function (cv) {
-      console.log(cv);
+      //console.log(cv);
+      $('title').html('CV '+cv.tri+' - '+cv.firstname+' '+cv.lastname)
 
       $.get('src/templates/header.hbs', function (data) {
         var template = Handlebars.compile(data);
         $('.cv').html(template(cv));
 
-        if(cv.json.length) {
-          $.getJSON(cv.json+'.json', function (json) {
-            $.each(json.cv, function(index, section) {
-              if(section.type in templates) {
-                compile(templates[section.type], section);
-              }
-            });
-            checkURLs();
+        $.getJSON('src/'+CV_LANGUAGE+'.json', function (json) {
+          $.each(json.cv, function(index, section) {
+            if(section.type in templates) {
+              compile(templates[section.type], section);
+            }
           });
-        }
+          $('.octo-position').html(json.position);
+          checkURLs();
+        });
       }, 'html');
   });
 
@@ -38,20 +38,14 @@
     title(json);
     var template = Handlebars.compile(hbs);
     $('.cv').append(template(json));
-    //console.log(json);
   }
 
   function checkURLs() {
     $.each($('p, li'), function(index, tag) {
-      var html = $(tag).html().replace(/\((.+?)\)\[(.+?)\]/, '<a href="$2">$1</a>');
-      //console.log(html);
+      var html = $(tag).html()
+          .replace(/\((.+?)\)\[(.+?)\]/, '<a href="$2">$1</a>');
       $(tag).html(html);
     });
-
-    /*var test = "(1st price of the competition « Mobile territory » of SITG)[http://ge.ch/sitg/evenements/journees-du-sitg/2011/concours-un-territoire-mobile] - Mobile software GeTri development using the open database of SITG."
-    console.log(test);
-    console.log(test.replace(/\((.+?)\)\[(.+?)\]/, '<a href="$2">$1</a>'));
-    console.log(test);*/
   }
 
   function title(json) {

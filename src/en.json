@@ -1,11 +1,12 @@
 {
+  "position": "IT Consultant",
   "cv": [
     {
       "type": "bloc",
       "title": "Education",
       "content": [
-        "Bachelor's degree, Technology of Information Engineering, HES-SO Switzerland (2012)",
-        "Technician ET Diploma, Electronic, CFPT Switzerland (2008)",
+        "Bachelor's degree, Information Technologies Engineering, HES-SO Switzerland (2012)",
+        "Diploma ET Technician, Electronic, CFPT Switzerland (2008)",
         "Federal Certificat, Electronic, CEPTA Switzerland (2006)"
       ]
     },
@@ -14,8 +15,8 @@
       "title": "Summary",
       "content": [
         "Jérémy is consultant at OCTO Technology and has eight years of experience on Web and mobile development.",
-        "Pushed by his creative desire, he starts studying electronics during six years before changing direction for the IT development. In 2012, he receives its Bachelor's degree of engineering of information technologies at hepia (Member of the HES-SO University of Applied Sciences and Arts Western Switzerland).",
-        "At the end of its formations, Jérémy provided with a residency position at hepia as research assistant. During this period of three years, he works on many projects of IT development for start-ups based in Switzerland. He also begins the “Venture Challenge” training in entrepreneurship at the University of Geneva and learns by himself on the graphic creation, the design and 3D.",
+        "Pushed by his creative desire, he starts studying electronics during six years before changing direction for the IT development. In 2012, he receives its Bachelor's degree of information technologies engineering at hepia (Member of the HES-SO University of Applied Sciences and Arts Western Switzerland).",
+        "At the end of its formations, Jérémy provided with a residency position at hepia as research assistant. During this period of three years, he works on many projects of IT development for start-ups based in Switzerland. He also begins the “Venture Challenge” training in entrepreneurship at the University of Geneva and learns by himself on graphic design and 3D creation.",
         "He moves to London and participates to the redesigning of the start-up Enterprise Lab as « lead developer and designer ». All these experiences have allowed him to quickly acquierir strong skills in Web and mobile development.",
         "He joins OCTO Technology in 2016 and pursues IT development in addition of its activity of consultant. Based on its multidisciplinary skills, he maintains a critical look on its activities and constantly seeking ways to improve the way things are done, sharing his experience through its activities of consulting and articles writing."
       ]
@@ -28,12 +29,12 @@
           {
             "title": "Technicals",
             "content": [
-              "Languages : Java, Python, Kotlin, C, C++, JavaScript, PHP, VBA, Delphi, Ada",
+              "Languages : Java, Python, Kotlin, C, C++, JavaScript, PHP, VBA",
               "Frameworks : Spring, Django, Symfony, AngularJS, Codeigniter, Wordpress, GWT",
-              "Databases & ORMs : SQL, MySQL, SQLite, Hibernate, Doctrine, Gaz ORM",
-              "Technologies : Android, Git, SVN, OpenGL, Java3D, ArcGIS, WPF",
-              "JS Technologies : jQuery, jQuery UI, jQuery Mobile, PIXI, X3DOM",
-              "Design : CSS, SASS, Bootstrap, TWIG, X3DOM, Java3D, WPF",
+              "Databases & ORMs : SQL, MySQL, SQLite, Hibernate, Doctrine",
+              "Technologies : Android, Git, SVN, OpenGL, Java3D, ArcGIS",
+              "JS Technologies : jQuery, jQuery UI, jQuery Mobile, Handlebars, PIXI, X3DOM",
+              "Web : HTML, CSS, SASS, Bootstrap, TWIG, X3DOM, Java3D",
               "Softwares : IntelliJ, Eclipse, Atom, XDK, Photoshop, Illustrator, After Effects, Blender, Maya",
               "Automated development : Maven, Gradle, Bower, Grunt",
               "Operationg systems : Mac OSX, UNIX/Linux, Windows"
@@ -87,7 +88,7 @@
                 "Graphic widgets creation",
                 "Continous integration",
                 "Tests with Mokito",
-                "Business logic"
+                "E-banking business logic"
               ],
               "keywords": [
                 "Android", "Kotlin", "Moskito", "e-banking"
@@ -253,10 +254,13 @@
             {
               "title": "Summary",
               "content": [
-                ""
+                "Research and development with external firm",
+                "Teaching for lessons and laboratories",
+                "Internal Web and Mobile projects development",
+                "Student supporting while diploma's work"
               ],
               "keywords": [
-                ""
+                "R&D", "teaching", "Web", "Mobile", "AWS", "Docker"
               ]
             }
           ]
